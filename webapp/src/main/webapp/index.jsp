@@ -1,3 +1,4 @@
 <h1> Hello,I crossed my first step!!! </h1>
-<h2> Deploying using Ansible,trying to complete with PCM </h2>
-<h3> Keep going on, next step is complte ansible</h3>
+<h2> Deploying using Ansible,trying to complete with PCM </h2
+<h4> Also understanding git commends </h3>
+<h4> Keep going on, next step is complte ansible</h4>
